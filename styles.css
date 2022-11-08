@@ -1,0 +1,20 @@
+#restaurantsTable {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width: 50%;
+}
+
+th {
+    font-family: 'Segoe UI';
+    text-align: left;
+}
+
+h1 {
+    font-family: 'Segoe UI';
+    font-size: 40px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
