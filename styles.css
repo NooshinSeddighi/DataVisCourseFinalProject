@@ -18,3 +18,19 @@ h1 {
 tr:nth-child(even) {
     background-color: #dddddd;
 }
+
+thead {
+    font-family: 'Segoe UI';
+    text-align: left;
+}
+
+.detailsStyle {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+.tableFormat {
+    margin: 10px;
+    /*float: left;*/
+}
