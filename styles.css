@@ -22,7 +22,12 @@ tr:nth-child(even) {
 thead {
     font-family: 'Segoe UI';
     text-align: left;
+    font-weight: bold;
 }
+
+/*th:hover {
+    text-decoration: underline;
+}*/
 
 .detailsStyle {
     border-style: solid;
@@ -31,6 +36,7 @@ thead {
 }
 
 .tableFormat {
-    margin: 10px;
-    /*float: left;*/
+    margin-top: 10px;
+    margin-bottom: 10px;
+/*    float: left;*/
 }

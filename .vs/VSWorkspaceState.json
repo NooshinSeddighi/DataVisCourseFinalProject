@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Data",
+    "\\js"
   ],
-  "SelectedNode": "\\Data.csv",
+  "SelectedNode": "\\Data\\data_v2.json",
   "PreviewInSolutionExplorer": false
 }

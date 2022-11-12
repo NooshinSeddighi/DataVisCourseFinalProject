@@ -1,11 +1,15 @@
-d3.json('data/edited-data.json').then(data => {
+d3.json('data/data_v2.json').then(data => {
 
     console.log("script started");
 
     let mainBodyDiv = d3.select('body')
         .append('div');
 
-    let tableDiv = mainBodyDiv
+    let upperSection = mainBodyDiv
+        .append('div')
+        .classed('upperSection', true);
+
+    let tableDiv = upperSection
         .append('div')
         .classed('tableFormat', true);
 
@@ -13,13 +17,19 @@ d3.json('data/edited-data.json').then(data => {
 
     table.createTable();
 
-    let criteriaDiv = tableDiv
+    //let criteriaDiv = upperSection
+    //    .append('div')
+    //    .classed('criteriaFormat', true);
+
+    //let criteria = new Criteria(data);
+
+    //criteria.createCriteria();
+
+    let lowerSection = mainBodyDiv
         .append('div')
-        .classed('criteriaFormat', true);
+        .classed('lowerSection', true);
 
-    let criteria = new Criteria(data);
-
-    let detailsDiv = mainBodyDiv
+    let detailsDiv = lowerSection
         .append('div')
         .classed('detailsFormat', true);
 
