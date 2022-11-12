@@ -36,38 +36,13 @@ d3.json('data/data_v2.json').then(data => {
     let details = new Details(data);
 
     details.createDetails();
-    //let viewsDiv = d3.select('body')
-    //    .append('div')
-    //    .classed('views', true);
 
-    //let chartDiv = viewsDiv
-    //    .append('div')
-    //    .classed('chartFormat', true)
-    //    .attr('id', 'bubbleChartDiv');
+    let scatterDiv = lowerSection
+        .append('div')
+        .classed('scatterFormat', true);
 
-    //chartDiv.append('div')
-    //    .attr('id', 'buttonDiv')
-    //    .append('button')
-    //    .text('Expand')
-    //    .attr('id', 'expandButton');
+    let scatterPlot = new Scatter(data);
 
-    //chartDiv.select('#buttonDiv')
-    //    .append('button')
-    //    .text('Show Extremes')
-    //    .attr('id', 'extremesButton');
+    scatterPlot.createScatter();
 
-    //let bubbleChart = new Bubblechart(data);
-
-    //d3.select('#expandButton')
-    //    .on('click', bubbleChart.handleExpandClick);
-
-    //bubbleChart.createChart();
-
-    //let tableDiv = viewsDiv
-    //    .append('div')
-    //    .classed('tableFormat', true);
-
-    //let table = new Table(data);
-
-    //table.createTable();
 })

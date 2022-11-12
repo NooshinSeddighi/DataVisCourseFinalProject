@@ -5,16 +5,24 @@
     <meta charset="utf-8" />
     <title>CS 5630/6630 Final Projects</title>
 
+    <!-- include d3 and javascript files-->
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="js/script.js"></script>
     <script src="js/table.js"></script>
     <script src="js/details.js"></script>
     <script src="js/criteria.js"></script>
+    <script src="js/scatter.js"></script>
+
+    <!-- Used for radar chart-->
+    <link rel="stylesheet" href="https://yui-s.yahooapis.com/pure/0.5.0/pure-min.css">
+    <link rel="stylesheet" href="https://rawgit.com/tpreusse/radar-chart-d3/master/src/radar-chart.css">
 
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <h1> U Hungry </h1>
+
+    <!-- Criteria Entry -->
     <table id="userCriteria">
         <tr>
             <th>Rating</th>
@@ -45,9 +53,11 @@
             </td>
         </tr>
     </table>
+    <div id="usable_space">
 
+    </div>
     <!-- U of U map-->
-    <div class="mapouter">
+    <div class="mapouter" style="float: right; margin-right: 30px; position:relative; bottom: 90px;">
         <div class="gmap_canvas">
         <iframe width="500" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=University%20of%20Utah&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
         <a href="https://fmovies-online.net">fmovies</a>

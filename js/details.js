@@ -9,14 +9,14 @@ class Details {
 		let detailsSvg = d3.select('.detailsFormat')
 			.append('svg')
 			.attr('width', 500)
-			.attr('height', 300)
+			.attr('height', 400)
 			.attr('class', '.detailsStyle');
 
 		detailsSvg.append('rect')
 			.attr('x', 0)
 			.attr('y', 0)
 			.attr('width', 500)
-			.attr('height', 300)
+			.attr('height', 400)
 			.attr('fill', 'none')
 			.attr('stroke', 'black')
 			.attr('stroke-width', 5);

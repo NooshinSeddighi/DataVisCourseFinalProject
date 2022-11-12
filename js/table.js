@@ -10,7 +10,8 @@ class Table {
 
     createTable() {
 
-        let tableSection = d3.select('.tableFormat')
+        //let tableSection = d3.select('.tableFormat')
+        let tableSection = d3.select('#usable_space')
             .append('table')
             .attr('id', 'restaurantsTable');
 
