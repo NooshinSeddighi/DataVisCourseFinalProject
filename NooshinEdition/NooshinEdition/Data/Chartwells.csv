@@ -1,0 +1,74 @@
+Name,Building,Type,address,Location,Google map link,Phone number,Day of the week,Open/Close,Start time,End time,Dine-in,Takeout,Delivery,Rating,Reviews,Menu ( photo),Menu (list),Number of items,Name of Food,Price,Inside,Website
+Chartwells,Union,Dining Services,"9112, 200 Central Campus Dr #30, Salt Lake City, UT 84112","40.76596954950687, -111.84598866660815","https://www.google.com/maps/place/Chartwells/@40.7659695,-111.8624682,15z/data=!4m9!1m2!2m1!1sdining!3m5!1s0x87525f8d83aa5531:0x87ecefe338cda472!8m2!3d40.765018!4d-111.8458863!15sCgZkaW5pbmdaCCIGZGluaW5nkgEKcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSUmRuTnlNMWxuRUFF4AEA",18015817257,Sunday,Closed,,,Yes,Yes,No,2.2,40,https://utah.catertrax.com/menuGrid.asp?mode=p&cg=6&intCustomerID=,The Morning Start,5,Continental Breakfast,12.59,"Assorted breakfast pastries and bagels, Cream cheese, Seasonal fresh fruit display, Regular and decaf coffee and assorted hot teas, Orange juice, Ice water",https://utah.catertrax.com/
+,,,,,,,Monday,Open,0.333333333,0.708333333,,,,,,,,,Energy Breakfast,17.09,"Egg white scramble with potato, spinach, and tomato, Avocado toast, Seasonal fresh fruit and greek yogurt bar with house-made granola, Regular and decaf coffee and assorted hot teas, Orange juice, Ice water",
+,,,,,,,Tuesday,Open,0.333333333,0.708333333,,,,,,,,,Traditional Breakfast,15.39,"Scrambled eggs, Breakfast meats, Seasoned breakfast potatoes, Seasonal fresh fruit display, Pastry assortment: Mini croissant, muffins or danishes, Regular and decaf coffee and assorted hot teas, Orange juice, Ice water",
+,,,,,,,Wednesday,Open,0.333333333,0.708333333,,,,,,,,2,Hand-Crafted Breakfast Sandwiches,various,various,
+,,,,,,,Thursday,Open,0.333333333,0.708333333,,,,,,,,,Breakfast a la Carte,various,"Assorted bagels and spreads - per dozen, Freshly-baked croissants - per dozen, Assorted danish - per dozen, Assorted freshly-baked muffins - per dozen, Yogurt parfait with fresh berries and granola - per person (minimum of 10 people), Overnight oats - per person (minimum of 10 people), Avocado toast - per person (minimum of 10 people), Bacon - per person (minimum of 10 people), Pork sausage - per person (minimum of 10 people), Turkey sausage - per person (minimum of 10 people), Ham - per person (minimum of 10 people), Seasonal fresh fruit display - per person (minimum of 10 people), Artisan charcuterie and cheese board - per person (minimum of 10 people), Ham and swiss cheese quiche - per person (minimum of 10 people), Greek yogurt - per person (minimum of 10 people), Tuscan kale, roasted pepper, and goat cheese quiche - per person (minimum of 10 people), Hardboiled hen eggs - per person (minimum of 10 people), Ancient grain oatmeal - per person (minimum of 10 people), Donuts - per dozen",
+,,,,,,,Friday,Open,0.333333333,0.708333333,,,,,,,Balanced Breaks,,Chips and Salsa,2.49,"Lime and sea salt tortilla chips, House-made tomato salsa",
+,,,,,,,Saturday,Closed,,,,,,,,,,,Mezze Spreads,8.09,"Crisp vegetables, Pita chips, Yellow lentil hummus,Classic chick pea hummus, Babaganoush",
+,,,,,,,,,,,,,,,,,Sweets and Treats,1,Sweets and Treats,,"Assorted freshly-baked cookies - per dozen
+ House-made fudge brownies - per dozen
+Trix cereal treat wedges - per dozen
+Cinnamon toast crunch cereal treat wedges - per dozen
+Cocoa puffs cereal treat wedges - per dozen
+Rice krispy treat cereal treat wedges - per dozen
+Blondie dessert bar wedges - per dozen
+M and M blondie dessert bar wedges - per dozen
+ Lemon dessert bar wedges - per dozen
+ Savory party mix - per dozen
+ Individually bagged chips - each
+ Fresh whole fruit - per dozen
+ Housemade truffle plate (mocha, oreo, and birthday cake) (minimum 3 dozen) - per dozen
+",
+,,,,,,,,,,,,,,,,,Beverages,1,Beverages,,"Fruit infused water, Cold soda, Cold water bottles, Cold iced tea, Cold lemonade, Raspberry lemonade, Ice water, Orange Juice, Apple juice, Cranberry juice, Freshly brewed coffee, Freshly brewed decaf coffee, Hot water and assorted teas, Hot apple cider, Hot chocolate",
+,,,,,,,,,,,,,,,,,Lunch Buffets,2,Classic Deli Buffet,15.99,",Fresh veggies, Fresh baked cookies, Condiments",
+,,,,,,,,,,,,,,,,,,,Artisan Sandwich Board,18.19,"4 from Muffuletta vegetarian sandwich, Mediterranean grilled chicken sun-dried tomato hummus ciabatta, Cajun roast turkey with pepper jack, bermuda onion, cajun mayo, Classic italian, pepperoni, capicola, salami, and provolone with balsamic hero, Avocado, lettuce, tomato on wheat, Roast beef sub, american cheese, lettuce, tomato, onion, Turkey bacon ranch on wheat with pepper jack and ranch dressing",
+,,,,,,,,,,,,,,,,,Box Lunches,13,Turkey Breast Express Box Lunch,12.59,"Turkey breast and provolone cheese, Individual Bag of Chips, Whole Fruit, Fresh baked cookies",
+,,,,,,,,,,,,,,,,,,,Ham and Swiss Express Box Lunch,12.59,"Ham and swiss cheese, Individual Bag of Chips, Whole Fruit, Fresh baked cookies",
+,,,,,,,,,,,,,,,,,,,Roast Beef and Cheddar Express Box Lunch,12.59,"Roast beef and cheddar, Individual Bag of Chips, Whole Fruit, Fresh baked cookies",
+,,,,,,,,,,,,,,,,,,,Grilled Veggie Wrap Express Box Lunch,12.59,,
+,,,,,,,,,,,,,,,,,,,Tuna Salad Express Box Lunch,12.59,"Tuna salad, Individual Bag of Chips, Whole Fruit, Fresh baked cookies",
+,,,,,,,,,,,,,,,,,,,Grilled Mediterranean Chicken Express Box Lunch,13.89,"Grilled mediterranean chicken sandwich, Individual Bag of Chips, Whole Fruit, Fresh baked cookies",
+,,,,,,,,,,,,,,,,,,,Muffuletta Vegetarian Sandwich Artisan Box Lunch,15.99,"Muffuletta vegetarian sandwich, Fruit cup",
+,,,,,,,,,,,,,,,,,,,Mediterranean Grilled Chicken Sandwich Artisan Box Lunch,17.49,"Mediterranean grilled chicken sun-dried tomato hummus ciabatta, Fruit cup",
+,,,,,,,,,,,,,,,,,,,Cajun Roast Turkey Sandwich Artisan Box Lunch,14.89,"Cajun roast turkey with pepper jack, bermuda onion, cajun mayo, Fruit cup",
+,,,,,,,,,,,,,,,,,,,Classic Italian Sandwich Artisan Box Lunch,15.29,"Classic italian, pepperoni, capicola, salami and provolone with balsamic hero, Fruit cup",
+,,,,,,,,,,,,,,,,,,,"Avocado, Lettuce, and Tomato on Wheat Artisan Box Lunch",14.89,"Avocado, lettuce, tomato on wheat, Fruit cup",
+,,,,,,,,,,,,,,,,,,,Roast Beef Sub Artisan Box Lunch,15.29,"Roast beef sub, american cheese, lettuce, tomato, onion, Fruit cup",
+,,,,,,,,,,,,,,,,,,,Turkey Bacon Ranch on Wheat Artisan Box Lunch,14.99,"Turkey bacon ranch on wheat with pepper jack and ranch dressing, Fruit cup",
+,,,,,,,,,,,,,,,,,Boxed Salads,6,Turkey Avocado Cobb Salad,14.59,"Turkey avocado cobb salad, Artisan crackers, Fresh baked cookies",
+,,,,,,,,,,,,,,,,,,,Blackened Chicken Caesar Salad,14.59,"Blackened chicken caesar salad, Artisan crackers, Fresh baked cookies",
+,,,,,,,,,,,,,,,,,,,Traditional Chef`s Salad,14.59,"Traditional chef`s salad, Artisan crackers, Fresh baked cookies",
+,,,,,,,,,,,,,,,,,,,Greek Salad with Grilled Chicken,14.59,"Greek salad with grilled chicken, Artisan crackers, Fresh baked cookies, ",
+,,,,,,,,,,,,,,,,,,,California Salmon Salad,17.29,"California salmon salad, Artisan crackers, Fresh baked cookies",
+,,,,,,,,,,,,,,,,,,,Mediterranean Grain Salad,13.19,"Mediterranean grain salad, Artisan crackers, Fresh baked cookies",
+,,,,,,,,,,,,,,,,,Theme Buffets,9,Little Italy,18.89,"Caesar salad, Fresh baked cookies, Fresh baked garlic bread",
+,,,,,,,,,,,,,,,,,,,Taste of the South,19.99,"Classic carolina pulled pork with slider rolls, Buttermilk fried chicken, Macaroni and cheese, BBQ baked beans, Lime cilantro cabbage cole slaw, Cheddar jalapeño cornbread, Strawberry shortcake",
+,,,,,,,,,,,,,,,,,,,Home-Style Spread,25.19,"Herb brined turkey breast, sage gravy, Herb and panko crusted salmon, Garlic roasted red bliss potatoes, Roast brussels sprouts, Tossed garden salad, Fudge brownie",
+,,,,,,,,,,,,,,,,,,,Picnic Buffet,18.89,"Lettuce, Tomatoes, Pickles, Onions, Condiments, Fresh baked cookies, Brownies",
+,,,,,,,,,,,,,,,,,,,Taste of the Mediterranean,23.19,"Chermoula spiced chicken skewers with tzatziki sauce, Kafta meatballs on tabbouleh with red chili tomato sauce, Mini falafel with tahini sauce, Lentil hummus with grilled pita chips, Mezze grilled and marinated vegetables with hummus, Marinated olives",
+,,,,,,,,,,,,,,,,,,,Another Taste of the Mediterranean,22.09,"Blackened salmon with lemon and parsley, Za`tar roast chicken breast, Whole wheat penne with broccoli, lemon, and garlic, Broccoli rabe with red chili flake and roast garlic, Chick pea and tomato salad",
+,,,,,,,,,,,,,,,,,,,Taco House,21.09,"Mini al pastor tacos with onion and cilantro, Mini carne asada with onion and cilantro, Mini grilled chicken flautas ancho chili crema, De-constructed posole salad with chili lime vinaigrette, Crab avocado shooter with diced jicama and chili lime tortilla, Wild mushroom queso fundido with fresh corn tortillas, Mini churro chocolate dipping sauce",
+,,,,,,,,,,,,,,,,,,,Balanced Southwestern,23.39,"Grilled mahi mahi baja fish tacos, Grilled chicken skewers with soft corn tortillas, Black bean and corn salad, Mexican red rice, Guacamole, Salsa, Baked corn tortilla chips",
+,,,,,,,,,,,,,,,,,,,Traditional Asian Buffet,19.29,"Orange ginger chicken, Beef with broccoli, Ginger vegetable fried rice, Traditional egg rolls, Sesame broccoli",
+,,,,,,,,,,,,,,,,,Hors d`Oeuvres,15,Cheese Display,6.59,"Cheese display served with artisan bread, crackers, and fresh fruit garnish",
+,,,,,,,,,,,,,,,,,,,Crudité Display,4.59,Seasonal vegetables served with ranch dipping sauce,
+,,,,,,,,,,,,,,,,,,,Seasonal Fresh Fruit Display,4.39,Seasonal fruit and berries,
+,,,,,,,,,,,,,,,,,,,Italian Antipasti Display,8.39,"Prosciutto and salami, fresh mozzarella and shaved parmesan, pepperoncini, roasted red peppers, marinated artichokes, eggplant caponata, marinated olives extra virgin olive oil and balsamic vinegar served with flatbreads and crostini",
+,,,,,,,,,,,,,,,,,,,Mediterranean Market Display,8.99,"Cumin marinated chicken skewers, roast eggplant, roasted peppers, hummus, marinated olives, feta cheese, parmesan cheese, rocket arugula served with flatbreads and crostini",
+,,,,,,,,,,,,,,,,,,,Roasted Round of Beef,8.89,"Roasted round of beef, Turkey gravy, Horseradish aioli, Mushroom gravy, Dinner rolls, Whipped butter",
+,,,,,,,,,,,,,,,,,,,Prime Rib of Beef,11.39,"Prime rib of beef, Turkey gravy, Horseradish aioli, Mushroom gravy, Dinner rolls, Whipped butter",
+,,,,,,,,,,,,,,,,,,,Roasted Pork Loin,8.69,"Roasted pork loin, Turkey gravy, Mushroom gravy, Dinner rolls, Whipped butter",
+,,,,,,,,,,,,,,,,,,,Tenderloin of Beef,10.19,"Tenderloin of beef, Turkey gravy, Mushroom gravy, Dinner rolls, Whipped butter",
+,,,,,,,,,,,,,,,,,,,Boneless Virginia Ham,9.19,"Boneless virginia ham, Turkey gravy, Mushroom gravy, Dinner rolls, Whipped butter",
+,,,,,,,,,,,,,,,,,,,Herb-Roasted Breast of Turkey,8.49,"Herb-roasted breast of turkey, Turkey gravy, Mushroom gravy, Dinner rolls, Whipped butter",
+,,,,,,,,,,,,,,,,,,,Pasta Station,13.89,"Italian sausage, Marinara Sauce, Alfredo sauce, Spinach, Broccoli, Onions, Tomatoes, Parmesan cheese, Fettuccini",
+,,,,,,,,,,,,,,,,,,,Fondue Station,11.69,"Chocolate fondue, Caramel sauce, Strawberries, Pineapple, Pound cake, Shortbread cookies, Brownie bites, Pretzel rods, Marshmallows",
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,Dessert Stations,3,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,Seated Dinners,1,,,,
+,,,,,,,,,,,,,,,,,Custom Menu Request,1,,,,
+,,,,,,,,,,,,,,,,,Additional Services (hidden),4,,,,

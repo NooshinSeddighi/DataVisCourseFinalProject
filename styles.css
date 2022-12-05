@@ -1,0 +1,198 @@
+#restaurantsTable {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width: 50%;
+}
+
+th {
+    font-family: 'Segoe UI';
+    text-align: left;
+}
+
+h1 {
+    font-family: 'Segoe UI';
+    font-size: 40px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+thead {
+    font-family: 'Segoe UI';
+    text-align: left;
+    font-weight: bold;
+}
+
+/*th:hover {
+    text-decoration: underline;
+}*/
+
+.detailsStyle {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+.tableFormat {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    /*float: left;*/
+}
+
+mapouter {
+    float: right;
+}
+
+.detailsFormat {
+    float: left;
+}
+
+.scatterFormat {
+    /*float: right;*/
+}
+
+#mapid {
+    height: 500px;
+    width: 500px;
+    margin: 10px;
+    float: right;
+    /*position: relative;*/
+    /*bottom: 90px;*/
+}
+
+body {
+    padding: 10px;
+}
+
+#table-container {
+    display: inline-block;
+}
+
+/* Nooshin Style file */
+
+#restaurantsTable {
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  width: 50%;
+}
+
+table {
+    font-size: 12px;
+}
+th {
+  /* font-family: "Segoe UI"; */
+  text-align: left;
+}
+
+h1 {
+  /* font-family: "Segoe UI"; */
+  font-size: 40px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+tr {
+  height: 45px;
+}
+
+td {
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+tr#columnHeaders th {
+  color: white;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+tr#columnHeaders th:hover {
+  cursor: pointer;
+  background-color: #e65555;
+}
+
+tr.menuItem {
+  height: 32px;
+  border-bottom: 1px solid #ebebeb;
+}
+
+tr.menuHeader {
+  height: 32px;
+  border-bottom: 1px solid #ebebeb;
+  font-weight: bold;
+}
+
+tr.restaurant:hover,
+tr.restaurant:nth-child(even):hover {
+  background-color: #d7d7d7;
+  cursor: pointer;
+}
+
+tr.restaurant:hover,
+tr.restaurant:nth-child(even):hover {
+  background-color: #d7d7d7;
+  cursor: pointer;
+}
+
+tr.restaurant:nth-child(even) {
+  background-color: #f1f1f1;
+}
+
+thead {
+  /* font-family: "Segoe UI"; */
+  text-align: left;
+  font-weight: bold;
+}
+
+/*th:hover {
+    text-decoration: underline;
+}*/
+
+.detailsStyle {
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+}
+
+.tableFormat {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  /*float: left;*/
+}
+
+mapouter {
+  float: right;
+}
+
+.detailsFormat {
+  float: left;
+}
+
+.scatterFormat {
+  /*float: right;*/
+}
+
+nav {
+  background-color: #bc1313;
+  border: solid;
+  border-color: black;
+  color: white;
+}
+
+.tooltip {
+  position: absolute;
+  text-align: left;
+  width: 200px;
+  height: 100px;
+  padding: 2px;
+  font: 13px sans-serif;
+  background: lightsteelblue;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+}
